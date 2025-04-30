@@ -1,0 +1,24 @@
+
+Aula 2 - Estrutura de sites
+
+01 - Hierarquia de TAGs
+02 - Tag P, strong, em, sub
+03 - Usando cabeçalhos h1, h2, h3, h4, h5, h6
+04 - Imagens e Listas
+05 - Links para outra página, na mesma página 
+06 - Criando um arquivo de CSS
+07 - Cores de fundo e de elementos 
+08 - Bordas, Margens e Preenchimento
+09 - Altura, Largura, Alinhamento
+10 - Divisões e atributos de TAG
+11 - Formulários: INPUT e textarea
+12 - Form: Selectbox
+13 - Form: Checkbox e radiobutton
+14 - Upload de arquivos
+15 - Combinando elementos com FORM
+16 - Posicionamento (static, relative, fixed e absolute, float, z-index, display)
+17 - Layout de Tela e ferramentas
+18 - Projeto Final 01
+19 - Projeto Final 02
+20 - Bibliotecas Bootstrap
+

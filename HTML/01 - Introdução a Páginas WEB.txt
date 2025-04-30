@@ -1,0 +1,20 @@
+CONTEXTUALIZAÇÃO
+O mundo de atualmente é um mundo quase 100% conectado a rede mundial de computadores, de fato as evoluções das últimas décadas
+propiciaram um ambiente onde qualquer homem possa conversar com qualquer outro através de um simples dispositivo móvel.
+Como tudo isso é possível, como podemos conversar, assistir vídeos, fazer videoconferências, jogar, interagir? A invenção da hipermídia e do hipertexto
+possibilitou a WEB o alcance de hoje em dia, sem hipermídias nunca seria possível, a criação da linguagem HTML, CSS, JavaScript e protocolos de hipertexto (HTTP) nos colocou em um patamar completamente diferente.
+
+DESAFIO
+Vamos fazer uma pesquisa aplicada para conhecer uma parte desse universo, junto com seus colegas você precisa montar uma aula explicativa sobre os seguintes
+temas:
+
+- O que é uma página WEB
+- Diferença entre Site e Sistema
+- Sites estáticos vs site dinâmico
+- O que é Linguagem de Marcação e HyperTexto vs Programação
+- Outras tecnologias, Streamin, CSS, JavaScript
+
+Formas de entrega:
+- Documento PDF com o conteúdo dos tópicos.
+- Somente um integrante do grupo deverá fazer a entregar
+- O restante do grupo apenas marcará a atividade como entregue.
