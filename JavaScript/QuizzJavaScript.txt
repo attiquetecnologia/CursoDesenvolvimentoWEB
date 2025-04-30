@@ -1,0 +1,120 @@
+1. Qual é a declaração de variável correta em JavaScript?
+a) let minhaVariavel = 10;
+b) variavel minhaVariavel = 10;
+c) const minhaVariavel == 10;
+d) var = minhaVariavel 10;
+
+✅ Resposta: a) let minhaVariavel = 10;
+
+2. Qual destas estruturas faz um laço de repetição?
+a) if
+b) switch
+c) while
+d) function
+
+✅ Resposta: c) while
+
+3. Como se escreve um comentário de uma linha em JavaScript?
+a) <!-- Este é um comentário -->
+b) /* Este é um comentário */
+c) // Este é um comentário
+d) ** Este é um comentário **
+
+✅ Resposta: c) // Este é um comentário
+
+4. Qual é o operador de igualdade estrita em JavaScript?
+a) =
+b) ==
+c) ===
+d) !==
+
+✅ Resposta: c) ===
+
+5. Como se declara uma função em JavaScript?
+a) function minhaFuncao() { }
+b) def minhaFuncao() { }
+c) fun minhaFuncao() { }
+d) define minhaFuncao() { }
+
+✅ Resposta: a) function minhaFuncao() { }
+
+6. Como exibir uma mensagem no console (tela)?
+a) console.write()
+b) console.log()
+c) log.console()
+d) print()
+
+✅ Resposta: b) console.log()
+
+7. Qual palavra-chave é usada para criar uma constante em JavaScript?
+a) var
+b) let
+c) constant
+d) const
+
+✅ Resposta: d) const
+
+8. Como converter uma string para número em JavaScript?
+a) Number("10")
+b) parseInt("10")
+c) parseFloat("10.5")
+d) Todas as anteriores
+
+✅ Resposta: d) Todas as anteriores
+
+9. Qual destes valores é considerado false em JavaScript?
+a) 0
+b) "" (string vazia)
+c) null
+d) Todos os anteriores
+
+✅ Resposta: d) Todos os anteriores
+
+10. Qual método é usado para adicionar um elemento ao final de um array?
+a) push()
+b) pop()
+c) unshift()
+d) shift()
+
+✅ Resposta: a) push()
+
+11. Como acessar o terceiro elemento de um array let numeros = [10, 20, 30, 40];?
+a) numeros(3);
+b) numeros[3];
+c) numeros[2];
+d) numeros{3};
+
+✅ Resposta: c) numeros[2];
+
+12. Qual destes eventos é acionado quando um usuário clica em um botão?
+a) onhover
+b) onmouseover
+c) onclick
+d) onpress
+
+✅ Resposta: c) onclick
+
+13. Qual método é usado para transformar uma string em letras maiúsculas?
+a) string.toUpperCase();
+b) string.upperCase();
+c) string.toUpper();
+d) string.toCaps();
+
+✅ Resposta: a) string.toUpperCase();
+
+14. Qual destas formas é correta para verificar se um número é par?
+a) if (num / 2 === 0)
+b) if (num % 2 === 0)
+c) if (num % 2 !== 0)
+d) if (num * 2 === 0)
+
+✅ Resposta: b) if (num % 2 === 0)
+
+15. Qual destas estruturas é usada para percorrer um array em JavaScript?
+a) for
+b) forEach
+c) map
+d) Todas as anteriores
+
+✅ Resposta: d) Todas as anteriores
+
