@@ -1,0 +1,55 @@
+Unidade Curricular: Lógica de Programação
+Unidade Curricular: Redes e IoT
+Unidade Curricular: Sistemas Operacionais
+
+Capacidades Técnicas
+14. Criar repositórios Git locais e remotos
+para controle de versionamento
+
+
+Capacidades Socioemocionais
+1. Demonstrar autogestão
+2. Demonstrar pensamento analítico
+3. Demonstrar inteligência emocional
+4. Demonstrar autonomia
+
+PRE-REQUISITOS
+Para fazer esta atividade você precisa habilitar as pastas ocultas e extensões de arquivos segundo esse tutorial:
+https://support.microsoft.com/pt-br/windows/exibir-pastas-e-arquivos-ocultos-no-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5?authuser=0#:~:text=Selecione%20Exibir%20%3E%20Op%C3%A7%C3%B5es%20%3E%20Alterar%20pasta,e%20unidades%20ocultas%20e%20OK.
+
+CONTEXTUALIZAÇÃO
+Um bom desenvolvedor sabe fazer backup e dos seus dados, há situações por exemplo onde é preciso trabalhar no mesmo projeto em lugares diferentes
+nesse caso podemos usar ferramentas que permitem sincronizar os códigos em vários computadores diferentes.
+A ferramenta git instalada no computador permite que versões diferentes sejam salvas e atualizadas nos repositórios locais com o comando pull (puxar).
+
+DESAFIO
+Agora que você já aprendeu a fazer commits para as alterações e sincronizar os diretórios com push e pull.
+
+Você deve usar o comando git pull origin main para sincronizar as operações.
+
+Formar grupos de 3 conforme disposição para criar um projeto no github do relator chamado normas_abnt, todos devem enviar link do repositório.
+O grupo deve fazer uma pesquisa no bloco de notas sobre as normas ABNT cada um deve fazer um pedaço em um branch e juntar as partes.
+
+Logo os temas serão:
+- Formatação: falar sobre tamanho de fontes, espaçamento entre linhas, margens, tipos de fonte etc.
+- Referencias bibliográficas: mostrar na prática como devem estar as referências, de livros, de sites....
+- Citações: citações são trechos de outros autores no seu texto, explique e de exemplos...
+
+NOTA: Para fins de conhecimento os branchs devem estar no padrão parte_norma_seu_nome.
+Logo serão 3 branchs:
+- formatacao_seunome
+- referencias_seunome
+- citacoes_seunome
+
+Ao final das atividades todos os integrantes deverão fazer um pull para sincronizar em suas máquinas e o relator do projeto deverá fazer o merge 
+para o main de todas as versões (Isso será feito em sala de aula com o professor).
+
+NOTA: Não se esqueça de fazer o push para o repositório remoto e o pull no repositório local.
+
+PRAZO E PLANO DE AULA
+5 horas/aula
+Vide prazo no classroom
+
+
+RESULTADOS
+Entregar o link do repositório remoto git.

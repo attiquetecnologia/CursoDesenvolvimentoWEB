@@ -1,0 +1,37 @@
+Unidade Curricular: Lógica de Programação
+Unidade Curricular: Redes e IoT
+Unidade Curricular: Sistemas Operacionais
+
+Capacidades Técnicas
+14. Criar repositórios Git locais e remotos
+para controle de versionamento
+
+
+Capacidades Socioemocionais
+1. Demonstrar autogestão
+2. Demonstrar pensamento analítico
+3. Demonstrar inteligência emocional
+4. Demonstrar autonomia
+
+CONTEXTUALIZAÇÃO
+Um bom desenvolvedor sabe fazer backup e dos seus dados, há situações por exemplo onde é preciso trabalhar no mesmo projeto em lugares diferentes
+nesse caso podemos usar ferramentas que permitem sincronizar os códigos em vários computadores diferentes.
+A ferramenta git por exemplo combinada com o github.com permite além de versionar software manter cópias de segurança no repositório remoto
+com a possibilidade de restaurá-la para qualquer computador com o gitclone.
+
+DESAFIO
+Você perdeu sua máquina virtual Windows por conta de um vírus de computador mas felizmente possui o backup da máquina Windows10.vdi, só terá
+a necessidade de restaurá-la e reconfigurá-la para depois clonar o repositório dos códigos desenvolvidos.
+
+Logo precisa copiar o arquivo Windows10.vdi e seguir o Tutorial de Virtualbox.pdf para fazer a restauração e instalação dos programas
+NOTA: Não se esqueça de fazer um snapshot da máquina quando instalar os programas.
+
+E depois seguir o tutorial Versionamento GIT.pdf para lembrar como fazer o clone do repositório algoritimo trabalhado na aula passada.
+
+PRAZO E PLANO DE AULA
+5 horas/aula
+
+
+RESULTADOS
+Entregar o print da máquina virtual com o repositório clonado e todos os arquivos.
+NOTA: O print precisa ter toda a tela do computador, você pode usar o <Windows>+<Shift>+<S> para tirar print da tela.

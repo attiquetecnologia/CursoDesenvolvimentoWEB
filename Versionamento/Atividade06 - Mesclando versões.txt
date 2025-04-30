@@ -1,0 +1,68 @@
+Unidade Curricular: Lógica de Programação
+Unidade Curricular: Redes e IoT
+Unidade Curricular: Sistemas Operacionais
+
+Capacidades Técnicas
+14. Criar repositórios Git locais e remotos
+para controle de versionamento
+
+
+Capacidades Socioemocionais
+1. Demonstrar autogestão
+2. Demonstrar pensamento analítico
+3. Demonstrar inteligência emocional
+4. Demonstrar autonomia
+
+PRE-REQUISITOS
+Para fazer essa atividade você precisará estar dentro do seu diretório algorítimos
+
+
+CONTEXTUALIZAÇÃO
+Um bom desenvolvedor sabe fazer backup e dos seus dados, há situações por exemplo onde é preciso trabalhar no mesmo projeto em lugares diferentes
+nesse caso podemos usar ferramentas que permitem sincronizar os códigos em vários computadores diferentes.
+A ferramenta git instalada no computador permite que versões diferentes sejam salvas e um poderoso recurso é a criação de ramos (branchs) que são diferentes ramos do código a partir de uma versão anterior.
+Depois de feitas as alterações em um branch isolado, podemos "mesclar" (merge) a correção com a versão principal.
+
+DESAFIO
+Aproveitando tudo o que foi feito na aula anterior, vamos fazer nosso primeiro merge apartir do branch tutorial_configuracao.
+1- Entre no branch main (git checkout main)
+2- Execute o comando para fazer o merge:
+$ git merge tutorial_configuracao
+
+NOTA: O comando merge sempre é feito de um branch para o branch atual em que você está logado.
+
+Você pode checar as alterações abrindo o arquivo para conferir se as alterações feitas no tutorial_configuracoes.
+
+Se valendo dos comandos explicados acima vamos fazer nosso primeiro programa na versão 0.1
+
+1- Crie um algoritimo simples para receber do usuário a distância e a velocidade de viagem de um usuário.
+O programa deve devolver na tela o tempo que o viajante levará para fazer o percurso.
+
+Faça um commit no branch main "V0.1"
+
+2- Crie um novo branch chamado pedir_nome, faça o programa pedir para o usuário o nome do motorista.
+Faça um commit no branch pedir_nome "Pedindo nome para o usuário"
+
+3- Volte ao branch main e faça o merge do branch pedir_nome
+Execute o git log e veja que a versão ainda não foi alterada (use a <q> para sair do modo log).
+
+Feito isso você precisa executar um commit com o parâmetro --amend para abir o editor vim e podermos editar a mensagem de commit.
+$ git commit --amend
+
+NOTA: Para digitar textos no vim use <i> e depois de digitado você pode salvar o texto usando <ESC> digitando :wq e teclando <ENTER>
+
+Faça o push dos dois branchs do main e do pedir_nome
+ 
+
+PRAZO E PLANO DE AULA
+5 horas/aula
+Disposto no classroom
+
+RECURSOS DE SALA
+Computador, internet, projeto, bloco de notas
+
+ESTRATÉGIA DE ENSINO
+
+
+RESULTADOS
+Entregar o link do arquivo no repositório git no servidor.

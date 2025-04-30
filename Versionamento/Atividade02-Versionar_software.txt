@@ -1,0 +1,16 @@
+Unidade Curricular: Lógica de Programação
+Unidade Curricular: Redes e IoT
+Unidade Curricular: Sistemas Operacionais
+
+Capacidades Técnicas
+14. Criar repositórios Git locais e remotos
+para controle de versionamento
+
+Capacidades Socioemocionais
+1. Demonstrar autogestão
+2. Demonstrar pensamento analítico
+3. Demonstrar inteligência emocional
+4. Demonstrar autonomia
+
+CONTEXTUALIZAÇÃO
+Um desenvolvedor é um profissional multitarefa

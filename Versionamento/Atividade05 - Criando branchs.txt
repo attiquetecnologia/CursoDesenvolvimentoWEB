@@ -1,0 +1,53 @@
+Unidade Curricular: Lógica de Programação
+Unidade Curricular: Redes e IoT
+Unidade Curricular: Sistemas Operacionais
+
+Capacidades Técnicas
+14. Criar repositórios Git locais e remotos
+para controle de versionamento
+
+
+Capacidades Socioemocionais
+1. Demonstrar autogestão
+2. Demonstrar pensamento analítico
+3. Demonstrar inteligência emocional
+4. Demonstrar autonomia
+
+PRE-REQUISITOS
+Para fazer essa atividade você precisará estar dentro do seu diretório algorítimos
+
+NOTA: O que é .md https://kb.fileformat.app/pt/extension/md-file-info/#:~:text=O%20formato%20de%20arquivo%20MD%20(Markdown)%20foi%20criado%20em%202004,pode%20ser%20convertido%20em%20HTML.
+
+
+CONTEXTUALIZAÇÃO
+Um bom desenvolvedor sabe fazer backup e dos seus dados, há situações por exemplo onde é preciso trabalhar no mesmo projeto em lugares diferentes
+nesse caso podemos usar ferramentas que permitem sincronizar os códigos em vários computadores diferentes.
+A ferramenta git instalada no computador permite que versões diferentes sejam salvas e um poderoso recurso é a criação de ramos (branchs) que são diferentes ramos do código a partir de uma versão anterior.
+
+Todo repositório possui um arquivo chamado README.md que aqui chamaremos de LEAIME.md, este arquivo é um arquivo padrão que explica como o repositório está organizado e como configurá-lo, no caso podemos escrever um tutorial descrevendo como configurar o git remote para sincronizarmos o repositório local com o remoto.
+
+DESAFIO
+Crie um arquvo LEIAME.md e escreva nele usando o Bloco de Notas uma descrição do que o diretório algorítimos faz, explique que os algoritimos estão organizaods por temas e tudo mais.
+
+Você terá apenas um commit "arquivo LEIAME.md descreve o que o diretório faz".
+
+Em seguida deverá criar um novo branch (ramo) chamado tutorial_configuracao com um:
+$ git checkout -b tutorial_configuracao
+
+NOTA: O parâmetro -b cria um novo branch exatamente igual o atual
+NOTA: Se quiser simplesmente trocar de brach use o checkout sem o -b.
+
+Escreva um passo a passo para o usuário explicando como configurar o git remote para sincronizar com o github ou outro repositório remoto.
+
+PRAZO E PLANO DE AULA
+5 horas/aula
+Disposto no classroom
+
+RECURSOS DE SALA
+Computador, internet, projeto, bloco de notas
+
+ESTRATÉGIA DE ENSINO
+
+
+RESULTADOS
+Entregar o link do arquivo no repositório git no servidor.

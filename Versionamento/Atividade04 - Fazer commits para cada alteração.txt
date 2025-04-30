@@ -1,0 +1,51 @@
+Unidade Curricular: Lógica de Programação
+Unidade Curricular: Redes e IoT
+Unidade Curricular: Sistemas Operacionais
+
+Capacidades Técnicas
+14. Criar repositórios Git locais e remotos
+para controle de versionamento
+
+
+Capacidades Socioemocionais
+1. Demonstrar autogestão
+2. Demonstrar pensamento analítico
+3. Demonstrar inteligência emocional
+4. Demonstrar autonomia
+
+PRE-REQUISITOS
+Para fazer esta atividade você precisa habilitar as pastas ocultas e extensões de arquivos segundo esse tutorial:
+https://support.microsoft.com/pt-br/windows/exibir-pastas-e-arquivos-ocultos-no-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5?authuser=0#:~:text=Selecione%20Exibir%20%3E%20Op%C3%A7%C3%B5es%20%3E%20Alterar%20pasta,e%20unidades%20ocultas%20e%20OK.
+
+CONTEXTUALIZAÇÃO
+Um bom desenvolvedor sabe fazer backup e dos seus dados, há situações por exemplo onde é preciso trabalhar no mesmo projeto em lugares diferentes
+nesse caso podemos usar ferramentas que permitem sincronizar os códigos em vários computadores diferentes.
+A ferramenta git instalada no computador permite que versões diferentes sejam salvas.
+
+DESAFIO
+Você é um desenvolvedor junior de sistemas e precisa criar um tutorial explicando processo de instalação do Python.
+Tudo isso deverá ser feito na máquina virtual.
+
+Você precisa criar um arquivo como o nome tutorial_python.txt (precisa ser no bloco de notas), onde você deverá fazer um commit para cada alteração.
+Cada tema de commit deverá ser escrito por você desenvolvedor.
+
+O primeiro commit deve ser:
+"Iniciando tutorial de Python"
+Segundo commit:
+Explicando o que é Python
+Terceiro commit:
+Passo a passo fazer o download
+Quarto commit:
+Passo a passo de instalação
+
+NOTA: Os commits só funcionam se você fizer um git add nome_do_arquivo.
+NOTA: Ao final precisa enviar o arquivo ao repositório com git push origin main
+
+
+PRAZO E PLANO DE AULA
+5 horas/aula
+19 de Abril até 9:30
+
+
+RESULTADOS
+Entregar o link do arquivo no repositório git no servidor.

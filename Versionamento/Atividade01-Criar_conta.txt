@@ -1,0 +1,13 @@
+Nesta aula você será convidado a criar uma conta no github.com
+
+Você tem até as 11:00 do dia 04.03 para postar o link com o endereço
+da sua conta.
+
+Para saber qual o endereço do seu github.com basta clicar no seu usuário
+e depois clicar no endereço do navegador, use o comando <CTRL>+<C> para
+copiar o link e postar no classroom.
+
+Para postar o link no classroom basta clicar em Conferir Atividade e depois
+clicar em enviar.
+
+O objetivo é usar o github como repositório central para nossos códigos.
